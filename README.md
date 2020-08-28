@@ -1,6 +1,6 @@
 # HelloToYou
 
-<项目名称待定>
+这里是关于PhysicalTalkOver项目的一个简介
 
 ## 我们为什么发起这个项目
 
