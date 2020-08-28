@@ -6,6 +6,11 @@
 
 在某个下午，我们几个人偶然间聊到了StackOverflow，于是突然发问：“为什么物理没有这样的论坛？”于是在这个疑问的支撑下，我们决定动手去搭建一个。但是前期的测试是基于GitHub实现的，论坛目前还在筹备中，预计年底前上线（~~如果不咕咕咕的话~~）。
 
+## 阅读需知
+推荐给自己的浏览器安装[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)(Edge和Chrome直接点`添加至Chrome`，其他浏览器请自行解决问题)
+
+如果作者有安装`公式展示`中的提示来做兼容的话，可以直接观看数学公式而无需使用插件
+
 ## 传送门
 
 [量子力学笔记](https://github.com/scimenphy/QuantumMechanicsNoteBook)
