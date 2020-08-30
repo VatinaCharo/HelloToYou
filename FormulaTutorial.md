@@ -2,6 +2,11 @@
 
 由于Github原生不支持数学公式的渲染，故需要采用其他方式来展示数理公式。
 
+## GitHub适配工具
+> 基于Python, CodeCogs API
+
+详情见[MarkdownMathDisplayAdaptGitHub](https://github.com/scimenphy/MarkdownMathDisplayAdaptGitHub)
+
 ## 网络API
 
 > 基于CodeCogs API
