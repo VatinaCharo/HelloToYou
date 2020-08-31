@@ -14,6 +14,7 @@
 ## 传送门
 
 [量子力学笔记](https://github.com/scimenphy/QuantumMechanicsNoteBook)
+[一些零碎的笔记](https://github.com/EKiritsugu/Notes)
 
 ## 贡献者需要掌握的前置知识
 
